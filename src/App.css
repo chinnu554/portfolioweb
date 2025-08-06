@@ -1,0 +1,38 @@
+
+.title{
+  margin:10px 5px;
+  padding: 30px;
+  border: 1px solid black;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.244);
+  border-radius: 30px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: white;
+
+}
+.img{
+float: left;
+ height: 200px;
+ width: 200px;
+ clip-path: circle(40%);
+ border-radius: 10%;
+ shape-outside: circle(50%);
+ border: 1px solid black;
+}
+.para{
+  margin: 10px;
+  padding: 10px;
+  color: grey;
+  margin: 20px;
+}
+button.x{
+  margin: 20px;
+  padding: 90px;
+}
+.Bb{
+  
+  justify-content: center;
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin: 20px;
+}
